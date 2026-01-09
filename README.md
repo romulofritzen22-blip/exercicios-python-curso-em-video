@@ -1,0 +1,1 @@
+Conforme avanço no curso vou publicar minhas resoluções para os desafios propostos. "https://www.cursoemvideo.com/curso/python-3-mundo-1/", link do curso do mestre Gustavo Guanabara, recomendo bastante pela didática excelente.
