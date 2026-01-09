@@ -1,0 +1,7 @@
+#Desafio 006: Crie um algoritimo que leia um número e mostre o seu dobro, triplo e raíz quadrada.
+
+n = int(input('Digite um número: '))
+
+print(f'O dobro de {n} é {n * 2}')
+print(f'O triplo de {n} é {n * 3}')
+print(f'A raíz quadrada de {n} é {round(n ** (1/2), 2)}')
