@@ -7,4 +7,4 @@ ca = float(input('Comprimento do cateto adjacente em centímetros: '))
 
 h = hypot(co, ca)
 
-print(f'O comprimento da hipotenusa é de: {(h):.2f}cm')
+print(f'O comprimento da hipotenusa é de: {h:.2f}cm')
