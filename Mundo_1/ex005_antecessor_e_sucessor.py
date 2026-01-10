@@ -2,7 +2,4 @@
 
 numero = int(input('Digite um número: '))
 
-a = numero - 1 
-s = numero + 1
-
-print(f'O antecessor de {numero} é {a} e o sucessor é {s}.')
+print(f'O antecessor de {numero} é {numero - 1} e o sucessor é {numero + 1}.')
