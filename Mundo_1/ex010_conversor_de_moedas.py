@@ -3,4 +3,4 @@
 
 reais = float(input('Quanto dinheiro você tem na carteira? R$'))
 dólares = reais / 3.27
-print(f'Com R${reais:.2f} você pode comprar US${(dólares):.2f}')
+print(f'Com R${reais:.2f} você pode comprar US${dólares:.2f}')
