@@ -1,3 +1,5 @@
+#Desafio 045: Crie um programa que faça o computador jogar Jokenpô com você.
+
 from random import randint
 print(f'{' JOKENPÔ ':=^30}')
 usuario = int(input(f'1. Pedra \n2. Papel \n3. Tesoura \n{'=' * 30} \nOpção: '))
